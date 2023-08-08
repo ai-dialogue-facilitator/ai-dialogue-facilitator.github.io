@@ -1,2 +1,2 @@
-# ai-dialogue-facilitator.github.io
+# AI Dialogue Facilitator
 Public page
