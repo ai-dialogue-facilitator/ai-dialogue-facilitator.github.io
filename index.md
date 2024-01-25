@@ -5,4 +5,4 @@
   to attain a concrete outcome.
 </pre>
 
-[Page 1](./pages/page1)
+[Page 1](./pages/page_1)
