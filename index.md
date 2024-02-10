@@ -1,7 +1,7 @@
 # AI Dialogue Facilitator
 ## How to show your work if you are an AI Dialogue Facilitator.
 &nbsp;&nbsp;&nbsp;&nbsp;It is not simple to show to your potential clients that you are a _real_ AI Dialogue Facilitator, but...
-### "Who is an AI Dialogue Facilitator?" 
+### Who is an AI Dialogue Facilitator?
 &nbsp;&nbsp;&nbsp;&nbsp;I like the job description that I created several months ago most. It explains the process well and makes the idea of this job clear.<br>
 <pre>
     As an AI Dialogue Facilitator I engage with AI on behalf of a client. 
@@ -23,7 +23,7 @@
       documenting the stages of conversations, AI responses, and momentary 
       decisions made by the human participants.
 </pre>
-### "How to demonstrate that you are a _capable_ AI Dialogue Facilitator?"
+### How to demonstrate that you are a _capable_ AI Dialogue Facilitator?
 &nbsp;&nbsp;&nbsp;&nbsp;Now, the question is, what is the *best* way to show that you are a *real* AI Dialogue Facilitator? "Elementary, Watson!", __*ask the AI*__ how to show that you are an AI Dialogue Facilitator! Let's do just that!
 
 **Alex:** I am an AI Dialogue Facilitator. <the job description shown above> What is the best way to demonstrate my skills to a potential employer/client?"
