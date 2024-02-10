@@ -1,6 +1,6 @@
 # AI Dialogue Facilitator
 ## How to show your work if you are an AI Dialogue Facilitator.
-&nbsp;&nbsp;&nbsp;&nbsp;It is not simple to show to your potential clients that you are a __real_ AI Dialogue Facilitator, but...
+&nbsp;&nbsp;&nbsp;&nbsp;It is not simple to show to your potential clients that you are a _real_ AI Dialogue Facilitator, but...
 ### "Who is an AI Dialogue Facilitator?" 
 &nbsp;&nbsp;&nbsp;&nbsp;I like the job description that I created several months ago most. It explains the process well and makes the idea of this job clear.<br>
 <pre>
