@@ -36,4 +36,4 @@
 
 > **Claude:** Here is a concise suggestion for demonstrating your AI Dialogue Facilitator skills to potential employers or clients:<br>Prepare a portfolio highlighting your experience facilitating human-AI interactions. Include concrete examples such as dialogue transcripts, data preparation documents, recommendations on interaction formats, and summaries of outcomes. Offer to perform a demonstration by engaging company representatives and AI models in a sample consultation or ideation session tailored to their needs. Focus on listening to objectives, clarifying expectations, recommending approaches, mediating the discussion, and presenting takeaways. Emphasize adaptability and commitment to iterative refinement of techniques for optimal results.
 
-I think I will prepare the [portfolio](https://github.com/ai-dialogue-facilitator) that Claude suggested first.
+I think I will prepare the [portfolio](https://github.com/ai-dialogue-facilitator/portfolio) of [AI Dialogue Facilitator](https://github.com/ai-dialogue-facilitator) that Claude suggested... first.
