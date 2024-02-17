@@ -19,6 +19,6 @@
 </pre>
 #### How can AI be useful?
 [Portfolio of examples](https://github.com/ai-dialogue-facilitator/portfolio)
-
+<br><br>
 ## How to show your work if you are an AI Dialogue Facilitator.
 &nbsp;&nbsp;&nbsp;&nbsp;It is not simple to show to your potential clients that you are a _real_ AI Dialogue Facilitator, but... [more](./pages/how_to_show_your_skills)
